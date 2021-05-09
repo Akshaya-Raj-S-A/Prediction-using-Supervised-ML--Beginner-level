@@ -1,4 +1,4 @@
-This is solution for my first task in The Sparks Foundation. I have used Jupyter Notebook to solve this problem in python. The solution file is named as "TASK 1.ipynb"
+This is solution for my first task in The Sparks Foundation. The task is to do predictions using supervised learning. I have used Jupyter Notebook to solve this problem in python. The solution file is named as "TASK 1.ipynb"
 
 Dataset used in this problem is uploaded as the csv file named "Task1_Dataset.csv" in main. The same file is also available in the link - http://bit.ly/w-data
 
