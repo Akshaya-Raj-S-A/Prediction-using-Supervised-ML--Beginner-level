@@ -1,10 +1,19 @@
-This is solution for my first task in The Sparks Foundation. The task is to do predictions using supervised learning. I have used Jupyter Notebook to solve this problem in python. The solution file is named as "TASK 1.ipynb"
+# TSP-GRIP-Data-Science-TASK-1-
 
-Dataset used in this problem is uploaded as the csv file named "Task1_Dataset.csv" in main. The same file is also available in the link - http://bit.ly/w-data
+# Prediction using Supervised ML
 
-The given problem is a simple linear regression problem with two variables as "Hours" and "Scores".
+# (Level - Beginner)
 
-The task is to predict the percentage of an student based on the no. of study hours.
+PROBLEM STATEMENT:
 
+● Predict the percentage of an student based on the no. of study hours.
+
+● This is a simple linear regression task as it involves just 2 variables.
+
+● You can use R, Python, SAS Enterprise Miner or any other tool
+
+● Data can be found at http://bit.ly/w-data
+
+● What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
